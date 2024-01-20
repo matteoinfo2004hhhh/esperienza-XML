@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<dataroot>
+
+<CentroRevisioneAutorizzato>
+<Natura>Centro di revisione</Natura>
+<Struttura>4 M AUTO DI PIETRUCCI MARIO E C.SAS</Struttura>
+<CodiceMCTC>RM/CH3</CodiceMCTC>
+<PartitaIVA>04821981000</PartitaIVA>
+<CodiceFiscale>04821232323</CodiceFiscale>
+<Indirizzo>Via traversa del grilli km 100</Indirizzo>
+<citta>Roma</citta>
+<CAP>00060</CAP>
+<Provincia>RM</Provincia>
+<Telefono>32432652</Telefono>
+</CentroRevisioneAutorizzato>
+
+<CentroRevisioneAutorizzato>
+<Natura>Centro di revisione</Natura>
+<Struttura>4 M AUTO DI PIETRUCCI MARIO E C.SAS</Struttura>
+<CodiceMCTC>RM/CH3</CodiceMCTC>
+<PartitaIVA>04821981000</PartitaIVA>
+<CodiceFiscale>04821232323</CodiceFiscale>
+<Indirizzo>Via traversa del grilli km 100</Indirizzo>
+<citta>Roma</citta>
+<CAP>00060</CAP>
+<Provincia>RM</Provincia>
+<Telefono>32432652</Telefono>
+</CentroRevisioneAutorizzato>
+
+</dataroot>

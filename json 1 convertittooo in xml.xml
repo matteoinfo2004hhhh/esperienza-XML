@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <element>
+    <Id__EA__mercato>1</Id__EA__mercato>
+    <Denominazione>Balon</Denominazione>
+    <Luogo>vie Borgo Dora, Lanino, Mameli, Andreis, Canale Molassi</Luogo>
+    <Giorni>sabato</Giorni>
+    <Circoscrizione>7</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>2</Id__EA__mercato>
+    <Denominazione>Baltimora</Denominazione>
+    <Luogo>vie Baltimora, Castelgomberto</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>2</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>3</Id__EA__mercato>
+    <Denominazione>Barcellona</Denominazione>
+    <Luogo>piazza Barcellona</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>4</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>4</Id__EA__mercato>
+    <Denominazione>Benefica</Denominazione>
+    <Luogo>piazza Martini - Benefica</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>3</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>5</Id__EA__mercato>
+    <Denominazione>Bengasi</Denominazione>
+    <Luogo>piazza Bengasi, via Onorato Vigliani</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>9</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>6</Id__EA__mercato>
+    <Denominazione>Brunelleschi</Denominazione>
+    <Luogo>corso Brunelleschi tra corso Peschiera e via Vandalino</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>3</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>7</Id__EA__mercato>
+    <Denominazione>Campanella</Denominazione>
+    <Luogo>piazza Campanella</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>4</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>8</Id__EA__mercato>
+    <Denominazione>Carlina</Denominazione>
+    <Luogo>piazza Carlina</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>1</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>9</Id__EA__mercato>
+    <Denominazione>Casale</Denominazione>
+    <Luogo>piazza Borromini</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>7</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>10</Id__EA__mercato>
+    <Denominazione>Cena</Denominazione>
+    <Luogo>via Cena, angolo via Bollengo</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>6</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>11</Id__EA__mercato>
+    <Denominazione>Chieti</Denominazione>
+    <Luogo>corso Chieti</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>7</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>12</Id__EA__mercato>
+    <Denominazione>Chironi</Denominazione>
+    <Luogo>piazza Chironi</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>4</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>13</Id__EA__mercato>
+    <Denominazione>Cincinnato</Denominazione>
+    <Luogo>corso Cincinnato tra corso Toscana e via ValdellaTorre</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>5</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>14</Id__EA__mercato>
+    <Denominazione>Crispi</Denominazione>
+    <Luogo>piazza Crispi</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>6</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>15</Id__EA__mercato>
+    <Denominazione>Crocetta</Denominazione>
+    <Luogo>largo e vicolo Cassini, via Marco Polo, vicolo Crocetta</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>1</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>16</Id__EA__mercato>
+    <Denominazione>Di Nanni</Denominazione>
+    <Luogo>via Di Nanni tra corso Peschiera e via S.Bernardino</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>3</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>17</Id__EA__mercato>
+    <Denominazione>Don Grioli</Denominazione>
+    <Luogo>vie don Grioli, don Grazioli</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>2</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>18</Id__EA__mercato>
+    <Denominazione>Falchera Nuova</Denominazione>
+    <Luogo>via degli Abeti</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>6</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>19</Id__EA__mercato>
+    <Denominazione>Falchera Vecchia</Denominazione>
+    <Luogo>viale Falchera, via dei Pioppi</Luogo>
+    <Giorni>mercoledi, venerdi</Giorni>
+    <Circoscrizione>6</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>20</Id__EA__mercato>
+    <Denominazione>Foroni</Denominazione>
+    <Luogo>piazze Foroni, Cerignola, vie Baltea, Monterosa, Santhia'</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>6</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>21</Id__EA__mercato>
+    <Denominazione>Grosseto</Denominazione>
+    <Luogo>corso Grosseto, via Lulli</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>5</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>22</Id__EA__mercato>
+    <Denominazione>Guala</Denominazione>
+    <Luogo>via e piazza Guala</Luogo>
+    <Giorni>martedi, giovedi, sabato</Giorni>
+    <Circoscrizione>9</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>23</Id__EA__mercato>
+    <Denominazione>Lucento</Denominazione>
+    <Luogo>corso Toscana, vie Forli', Borgomasino</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>5</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>24</Id__EA__mercato>
+    <Denominazione>Madama Cristina</Denominazione>
+    <Luogo>piazza Madama Cristina</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>8</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>25</Id__EA__mercato>
+    <Denominazione>Matteotti Bolzano</Denominazione>
+    <Luogo>corsi Matteotti, Vinzaglio</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>1</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>26</Id__EA__mercato>
+    <Denominazione>Michele Rua</Denominazione>
+    <Luogo>via Michele Rua</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>3</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>27</Id__EA__mercato>
+    <Denominazione>Mirafiori Sud</Denominazione>
+    <Luogo>via Plava vicino via Negarville</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>10</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>28</Id__EA__mercato>
+    <Denominazione>Nitti</Denominazione>
+    <Luogo>via Nitti</Luogo>
+    <Giorni>mercoledi, venerdi</Giorni>
+    <Circoscrizione>2</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>29</Id__EA__mercato>
+    <Denominazione>Nizza</Denominazione>
+    <Luogo>piazza Nizza</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>8</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>30</Id__EA__mercato>
+    <Denominazione>Palestro</Denominazione>
+    <Luogo>corso Palestro</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>1</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>31</Id__EA__mercato>
+    <Denominazione>Pavese</Denominazione>
+    <Luogo>via Pavese</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>10</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>32</Id__EA__mercato>
+    <Denominazione>Porpora</Denominazione>
+    <Luogo>via Porpora</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>6</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>33</Id__EA__mercato>
+    <Denominazione>Porta Palazzo</Denominazione>
+    <Luogo>piazza della Repubblica</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>7</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>34</Id__EA__mercato>
+    <Denominazione>S.Giulia</Denominazione>
+    <Luogo>vie S.Giulia, Balbo, piazza S.Giulia, corso Regina</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>7</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>35</Id__EA__mercato>
+    <Denominazione>S.Paolo-Racconigi</Denominazione>
+    <Luogo>corso Racconigi tra corsi Vittorio e Peschiera</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>3</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>36</Id__EA__mercato>
+    <Denominazione>S.Rita-Sebastopoli</Denominazione>
+    <Luogo>corso Sebastopoli tra corsi IV Novembre e Orbassano</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>2</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>37</Id__EA__mercato>
+    <Denominazione>S.Secondo</Denominazione>
+    <Luogo>vie S.Secondo, Legnano</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>1</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>38</Id__EA__mercato>
+    <Denominazione>Spezia</Denominazione>
+    <Luogo>corso Spezia, piazza Bozzolo</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>9</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>39</Id__EA__mercato>
+    <Denominazione>Svizzera</Denominazione>
+    <Luogo>corso Svizzera tra piazza Perotti e via Bianze'</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>4</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>40</Id__EA__mercato>
+    <Denominazione>Taranto</Denominazione>
+    <Luogo>corso Taranto tra piazza Sofia e via Corelli</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>6</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>41</Id__EA__mercato>
+    <Denominazione>Vallette</Denominazione>
+    <Luogo>piazzale don Pollarolo, vie delle Verbene, dei Mughetti</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>5</Circoscrizione>
+  </element>
+  <element>
+    <Id__EA__mercato>42</Id__EA__mercato>
+    <Denominazione>Vittoria</Denominazione>
+    <Luogo>piazza e via Vittoria, via Villar, piazza Chiesa della Salute</Luogo>
+    <Giorni>dal lunedi al sabato</Giorni>
+    <Circoscrizione>5</Circoscrizione>
+  </element>
+</root>
